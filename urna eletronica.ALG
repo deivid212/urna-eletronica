@@ -52,5 +52,13 @@ Inicio
    leia(numeroCand3)
 
    limpatela
+   
+   escreval("============ZERÉZIMA============")
+   escreval(numeroCand1, " - ", nomeCand1, ":")
+   escreval(numeroCand2, " - ", nomeCand2, ":")
+   escreval(numeroCand3, " - ", nomeCand3, ":")
+   escreval("0-Branco", contBranco)
+   escreval("Votos Nulos", contNulo)
+
 
 Fimalgoritmo
